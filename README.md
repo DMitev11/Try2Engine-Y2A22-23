@@ -47,6 +47,9 @@ WITH_BOX2D | TRUE/FALSE | Includes BOX2D build dependencies and includes. Used i
     3. a: Execute **Run.sh** </br>
        b: Navigate to <u>./build/tr1</u>, and run **try1**
 
+### **Demo** 
+Interact with UI widget or WASD/Arrow keys
+
 ### **Philosophy and how to contribute?**
 Project with modular architecture. </br>
 Every module in the project should be implemented with the intend that its libraries could change in the future. </br>
